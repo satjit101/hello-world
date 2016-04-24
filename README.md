@@ -3,7 +3,7 @@
 
 Hi, this is a test of editing a branch.
 
-if(formatsWell){  
+if (formatsWell){  
   tabs.shouldAutoFormat = true;  
   } else  
   tabs.shouldAutoFormat = false;  
